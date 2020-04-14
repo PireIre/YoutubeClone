@@ -1,0 +1,197 @@
+
+.App {
+  background-color: #f9f9f9;
+  color: #212121;
+  font-family: "Roboto",sans-serif;
+}
+
+div {
+  display: block;
+}
+
+head {
+  display: none;
+}
+
+.meta-data .description {
+  margin-bottom: 4px;
+  color: grey;
+}
+
+.Card .preview {
+  width: 100%;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.ResultsPage .channel-thumb {
+  width: 48px!important;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.meta-data {
+  display: flex;
+  padding: 0 8px;
+  flex-direction: row;
+}
+
+.meta-data .title {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+h1.title {
+  font-size: 21px;
+}
+
+h1, p {
+  margin-top: 0;
+}
+
+p.description{
+  font-size: 14px;
+  max-width: 640px;
+
+}
+.meta-data .description {
+  margin-bottom: 4px;
+  color: grey;
+  font-size: 14px;
+}
+
+.meta-data .channel-thumb {
+  border-radius: 500px;
+  width: 36px;
+  height: auto;
+}
+
+.meta-data .left {
+  margin-right: 8px;
+}
+
+body {
+  margin: 0;
+  display: block;
+  margin: 8px;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  letter-spacing: -.5px;
+}
+
+.HomePage .container>.title {
+  padding-left: 8px;
+  margin-bottom: 16px;
+  font-size: 20px;
+  letter-spacing: -.75px;
+}
+
+html {
+  display: block;
+  color: -internal-root-color;
+  -webkit-locale: "en";
+}
+
+main {
+  display: block;
+}
+
+section {
+  display: block;
+}
+
+.Card {
+  box-sizing: border-box;
+  margin: 0 auto 24px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+.HomePage {
+  height: 100%;
+}
+
+
+.HomePage .grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 16px;
+}
+
+.HomePage .container {
+  margin: 0 auto;
+  padding-top: 32px;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 656px;
+}
+
+.ResultsPage video {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+}
+
+video {
+  object-fit: contain;
+}
+
+.App {
+  background-color: #f9f9f9;
+  color: #212121;
+  font-family: "Roboto",sans-serif;
+}
+
+.ResultsPage .body-container {
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Header {
+  padding: 12px 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 16px;
+}
+
+.button {
+  padding: 8px;
+  font-weight: 700;
+  background-color: #dc143c;
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+hr {
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+  border-top: .5px solid #d3d3d3;
+}
