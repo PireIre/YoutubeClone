@@ -1,5 +1,3 @@
-![Figure](https://2020.school/uploads/wd-javascript-exercise-react-1.jpg)
-**Figure 1: How the final project will look both on mobile and desktop**
 
 # Introduction
 Welcome to the [React.js](https://reactjs.org) exercise. The objetive is to learn the basic building blocks of React by creating a website that copy the functionality of YouTube using a home page to browse videos and another page to watch it. After completing the project the student will be ready to investigate additional concepts to expand the functionality of the site, like adding a search bar and filter the results.
