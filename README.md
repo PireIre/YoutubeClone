@@ -11,7 +11,7 @@ Purpose was to learn basics of:
 
 # Homepage
 First page displays clickable video cards
-![] (Screenshot%202020-05-21%20at%2010.39.02.png)
+![](Screenshot%202020-05-21%20at%2010.39.02.png)
 
 # Video Page
 When video is clicked, you are taken to Video detail page where you see more details about it and watch the video. 
